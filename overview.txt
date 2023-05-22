@@ -1,0 +1,8 @@
+Project Name: Aroma Canteen
+Project Category: Canteen Billing Software
+Programming Language: Python
+Database Management: MySQL
+Created On: 22/05/2023
+Created By: Abhisha Kumar Chittore
+Standard: 12th-A
+Stream: PCM + CS
